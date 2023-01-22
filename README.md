@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [thesakibrahman](thesakibrahman)
 
-- 💬 Ask me about **Web Tech,Python**
+- 💬 Ask me about **Web Tech and Python**
 
 - 📫 How to reach me **sakib.rahman.adtu@gmail.com**
 

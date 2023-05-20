@@ -35,16 +35,17 @@
 <a href="https://www.hackerrank.com/thesakibrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thesakibrahman" height="30" width="40" /></a>
 </p>
 
-<h3>Skill Highlights</h3>
-- **Web Development**
-- **Languages:** C/C++/Java/Python
-- **Digital Marketing**
-- **Computer Networking**
-- **Operating System:** Linux, Winodws, Mac, Andoid
-- **DBMS**
-- **Cyber Security**
-- **Ethical Hacking**
-- **Cloud :** AWS/GCP
+<h3> Skill Highlights </h3>
+
+-  **Web Development**
+-  **Languages:** C/C++/Java/Python
+-  **Digital Marketing**
+-  **Computer Networking**
+-  **Operating System:** Linux, Winodws, Mac, Andoid
+-  **DBMS**
+-  **Cyber Security**
+-  **Ethical Hacking**
+-  **Cloud :** AWS/GCP
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesakibrahman&show_icons=true&locale=en&layout=compact" alt="thesakibrahman" /></p><br>
 

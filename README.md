@@ -47,5 +47,5 @@
 -  **Ethical Hacking**
 -  **Cloud :** AWS/GCP
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesakibrahman&show_icons=true&locale=en&layout=compact" alt="thesakibrahman" /></p><br>
+<p><img align="left"  alt="Status" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesakibrahman&show_icons=true&locale=en&layout=compact" alt="thesakibrahman" /></p><br>
 

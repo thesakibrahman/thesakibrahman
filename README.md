@@ -34,21 +34,23 @@ Hi, I Am Sakib Rahman Who Is Currently Pursuing A BTech In Computer Science And 
 -  Location: Guwahati, India
 -  Education: BTech in CSE with Specialization In Cloud Technology And Information Security
 -  Current Position: Full Stack Developer
--  Interests: Web Development, Cyber Security, AI/ML, Computer Networking, Digital Marketing
+-  Interests: Cyber Security, Ethical Hacking, Web Technology, Cloud Technology etc.
 -  Hobbies: Learning, Exploring, Gymming, Swimming
 
 ## Skills
 
-- Programming Languages: C, C++, JavaScript, Python, Java
-- Front-end Technologies: HTML, CSS, React, Angular
-- Back-end Technologies: Node.js, Express, Django
-- Databases: MySQL, MongoDB
-- Operating System: Linux, Windows, MacOS
+- Cyber Security
+- Ethical Hacking
+- Computer Netwroking
+- VAPT | Web Application Security
+- Computer Software & Hardware
+- Computer Truboolshooting
+- Operating System: Linux, Windows, MacOS, Android, IOS etc
 - Cloud Service : GCP, AWS
-- Computer Networking
-- Cyber Security | Ethical Hacking
-- Digital Marketing
-- DBMS | DSA | oops
+- Web Technology
+- Cloud Technology
+- Project Management
+- Programming Languages: C, C++, JavaScript, Python
 - Version Control: Git, GitHub
 
 ## GitHub Stats

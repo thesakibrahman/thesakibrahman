@@ -33,7 +33,6 @@ Hi, I Am Sakib Rahman Who Is Currently Pursuing A BTech In Computer Science And 
 
 -  Location: Guwahati, India
 -  Education: BTech in CSE with Specialization In Cloud Technology And Information Security
--  Current Position: Full Stack Developer
 -  Interests: Cyber Security, Ethical Hacking, Web Technology, Cloud Technology etc.
 -  Hobbies: Learning, Exploring, Gymming, Swimming
 

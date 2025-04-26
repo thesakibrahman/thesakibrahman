@@ -27,7 +27,7 @@ Welcome to my GitHub profile! This readme will guide you through different secti
 
 ## About Me
 
-Hi, I Am Sakib Rahman Who Is Currently Pursuing A BTech In Computer Science And Engineering With A Specialization In Cloud Technology And Information Security From Assam Downtown University. In Addition To His Studies, Sakib Is Also A Web Developer Who Is Passionate About Gaining Knowledge In Various Fields Such As Technology And Programming. He Is A Good Learner Who Is Constantly Working To Improve His Skills And Gain New Knowledge!
+Hi, I Am Sakib Rahman Who Is Currently Pursuing A BTech In Computer Science And Engineering With A Specialization In Cloud Technology And Information Security From Assam Downtown University. In Addition To His Studies,  Who Is Passionate About Gaining Knowledge In Various Fields Such As Technology And Programming. He Is A Good Learner Who Is Constantly Working To Improve His Skills And Gain New Knowledge!
 
 ## Rapidfire
 

@@ -1,8 +1,6 @@
 # GitHub
 
 Welcome to my GitHub profile! This readme will guide you through different sections to help you get to know me and my work.
-
-## Hey 👋, I'm Sakib Rahman!  
   
 
 ## About Me

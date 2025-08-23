@@ -5,58 +5,25 @@ Welcome to my GitHub profile! This readme will guide you through different secti
 ## Hey 👋, I'm Sakib Rahman!  
   
 
-<a href="https://github.com/thesakibrahman" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/thesakibrahman" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/thesakibrahman" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/thesakibrahman" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.com/thesakibrahman" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/sakib-rahman-253b64170/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
-
 ## About Me
 
-Hi, I Am Sakib Rahman Who Is Currently Pursuing A BTech In Computer Science And Engineering With A Specialization In Cloud Technology And Information Security From Assam Downtown University. In Addition To His Studies,  Who Is Passionate About Gaining Knowledge In Various Fields Such As Technology And Programming. He Is A Good Learner Who Is Constantly Working To Improve His Skills And Gain New Knowledge!
+🚀 I’m Sakib Rahman – a passionate IT professional and cybersecurity enthusiast with a strong drive to lead, build, and secure cutting-edge digital solutions. With 3+ years of versatile experience in the IT industry, I specialize in IT project management, cybersecurity practices, and technical team leadership.
 
-## Rapidfire
+💼 Currently working at Hommlie, I manage and lead the entire IT ecosystem, including B2C/B2B platforms, Android/iOS applications, admin dashboards, SEO, and digital marketing. My role involves planning, execution, client communication, and aligning the team towards impactful goals. Previously, I led IT operations at Takshashila School of Civil Services, where I handled digital transformation, web systems, and strategic planning.
 
--  Location: Guwahati, India
--  Education: BTech in CSE with Specialization In Cloud Technology And Information Security
--  Interests: Cyber Security, Ethical Hacking, Web Technology, Cloud Technology etc.
--  Hobbies: Learning, Exploring, Gymming, Swimming
+🔐 My core strengths include: 
 
-## Skills
+• IT Project Management & Team Leadership
+• Web & Mobile Application Development
+• Cybersecurity (CTF, VAPT, AppSec, Forensics)
+• Technical Documentation & Client Communication
+• SEO, Digital Marketing & Growth Strategy
+• Cloud Technology & IT Support
 
-- Cyber Security
-- Ethical Hacking
-- Computer Netwroking
-- VAPT | Web Application Security
-- Computer Software & Hardware
-- Computer Truboolshooting
-- Operating System: Linux, Windows, MacOS, Android, IOS etc
-- Cloud Service : GCP, AWS
-- Web Technology
-- Cloud Technology
-- Project Management
-- Programming Languages: C, C++, JavaScript, Python
-- Version Control: Git, GitHub
+💡 I thrive in challenging environments where innovation meets execution. Whether it’s building scalable platforms, managing secure infrastructure, or leading cross-functional teams – I believe in making tech work smarter and safer for everyone.
 
-## GitHub Stats
+🎯 Vision: To become a globally impactful IT leader, bridging technology, security, and strategy – and helping businesses grow with confidence.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thesakibrahman&show_icons=true&count_private=true&theme=dark)
-
-![Top Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=thesakibrahman&layout=compact&theme=dark)
 
 ## Profile View
 
